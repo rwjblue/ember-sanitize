@@ -1,4 +1,4 @@
-import { sanitize } from 'addons/utils/sanitize';
+import { sanitize } from 'ember-sanitize/utils/sanitize';
 
 module('SanitizeHelper');
 
